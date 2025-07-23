@@ -14,6 +14,15 @@
 
 ---
 
+## 🛠 Tech Stack
+
+- **Backend**: Django (Python)
+- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, UIkit
+- **Database**: SQLite (default with Django)
+- **Other**: Django Templating Engine, Bootstrap (for some components)
+
+---
+
 ## 🚀 Features
 
 ### 🔐 Authentication & User Profiles
