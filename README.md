@@ -6,61 +6,55 @@
 
 ## 📌 Project Summary
 
-- 🧠 Originally built and showcased as a **final team project** in a university course.
-- 👥 Developed by a team of **4 members**, including myself (**Shahidul-Islam-Fuad**).
-- 📅 Completed approximately **one year ago** from this date of posting.
-- 🖥️ Presented through a **live Google Meet demo** without a formal written report, so **no screenshots** were captured or preserved.
-- 🗂️ This repository serves as a clean archive of our project using my current GitHub profile.
+- 🧠 Originally developed and showcased as a **team project** for a university course.
+- 👥 Built by a team of **4 members**, including myself (**Shahidul-Islam-Fuad**).
+- 📅 Completed approximately **one year ago** from the date of this upload.
+- 🖥️ Presented through a **live Google Meet demo**; no formal report or screenshots were submitted or preserved.
+- 🗂️ This repository serves as a clean archival version of the project under my **personal GitHub profile**.
 
 ---
 
 ## 🚀 Features
 
 ### 🔐 Authentication & User Profiles
-- Sign up and log in
-- Profile bio, location, and image
-- Account settings and editing
+- User registration and login
+- Profile with bio, location, and profile image
+- Account settings and editable profile details
 
 ### 📝 Posts & Interactions
-- Image-based post uploads with captions
-- Like/unlike posts with real-time like count
-- Feed display of all user posts
+- Upload image-based posts with captions
+- Like/unlike posts with real-time like count display
+- Centralized feed displaying all user posts
 
 ### 👥 Follow System
 - Follow/unfollow other users
 - View follower/following counts
-- Suggested users list
+- User suggestions system
 
-### 🔎 Search
+### 🔎 User Search
 - Search users by username
-- Navigate to their profiles
+- Navigate directly to user profiles
 
-### 📓 Note Management
+### 📓 Notes
 - Add, edit, and delete personal notes
-- Stored per user account
+- Notes are stored per user account
 
 ### 👣 Step Count Tracker
-- Submit step counts with status (Completed, Running, Failed)
-- Track your own logs
-- View **leaderboard** of top completed step counts
-
-### 🧺 Items Page (Concept Mockup)
-- Simple frontend interface for item quantity selection
-- No backend logic — purely conceptual
+- Log daily step counts with status (Completed, Running, Failed)
+- View personal step history
+- Access a **leaderboard** showcasing top completed counts
 
 ---
 
 ## 📎 Original Repository Reference
 
-This project was originally developed collaboratively in a GitHub account that was created using the university g-suite account thus not refering to that directly as I am planning to use the personal Github account instead:  
+This project was originally developed and version-controlled using a university-associated GitHub account. My academic GitHub ID was `Shahidul-Islam-Fuad`, listed among the contributors in the original repository:  
 🔗 [https://github.com/aurid07/django](https://github.com/aurid07/django)
 
-My academic GitHub ID was `Shahidul-Islam-Fuad`, which is visible in the contributors list of the original repository.
+As I now maintain a separate professional GitHub account, this version is uploaded here for portfolio and archival purposes.
 
 ---
 
 ## 📌 Final Note
 
-This project highlights our first major full-stack Django development effort as a team. It accurately reflects our backend logic, feature scope, and frontend integration capabilities. This repository is a **retrospective academic upload** and is **not directly runnable without proper environment setup**. Required Django packages must be installed manually. This version is provided for demonstration and archival purposes only.
-
----
+This project represents our first major full-stack web application using Django. While it is **not directly runnable without setting up a Django environment**, the repository provides a complete picture of the backend logic, feature set, and frontend integration we implemented as a team. All required dependencies and paths would need to be configured for it to run successfully in a new environment.
